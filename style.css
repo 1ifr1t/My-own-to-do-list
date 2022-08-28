@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #000;
+	padding-top: 30px;
+}
+
+h1 {
+	color: #fff;
+	text-align: center;
+	font-size: 60px;
+}
+
+.buttons {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+
+.buttons .input {
+	font-size: 26px;
+}
+
+.buttons .button {
+	font-size: 26px;
+}
+
+p {
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
